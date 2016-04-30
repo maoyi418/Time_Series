@@ -5,12 +5,12 @@
 \deftab529
 \pard\tx529\pardeftab529\pardirnatural\partightenfactor0
 
-\f0\fs22 \cf0 \CocoaLigature0 1.Python Code folder: Twitter_Case_Study.ipynb and utilplot.py (require IPython)\
-                      Twitter_Case_Study.py is the same as  Twitter_Case_Study.ipynb  (in case you don't have Ipython notebook)\
-2.Slides: Twitter_Case_Study html file\
+\f0\fs22 \cf0 \CocoaLigature0 1.Python Code folder: TimeSeries_Case_Study.ipynb and utilplot.py (require IPython)\
+                      TimeSeries_Case_Study.py is the same as  TimeSeries_Case_Study.ipynb  (in case you don't have Ipython notebook)\
+2.Slides: TimeSeries_Case_Study html file\
           please open it in chrome browser\
           I also put a pdf in case you can open the html \
 3.In order to see the slideshow on browser, please run:\
-  ipython nbconvert  Twitter_Case_Study.ipynb --to slides --post serve\
+  ipython nbconvert  TimeSeries_Case_Study.ipynb --to slides --post serve\
 4.Data&Question: original raw data and question \
 }
