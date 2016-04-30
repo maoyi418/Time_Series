@@ -6,4 +6,4 @@
 3.In order to see the slideshow on browser, please run:
   ipython nbconvert  TimeSeries_Case_Study.ipynb --to slides --post serve
 4.Data&Question: original raw data and question(not provided) 
-}
+
